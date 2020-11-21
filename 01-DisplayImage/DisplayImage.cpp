@@ -19,15 +19,6 @@ int main(int argc, char** argv )
 
     waitKey(0);
 
-    Mat gray, hsv;
-
-    cvtColor(image, gray, COLOR_BGR2GRAY);
-    cvtColor(image, hsv, COLOR_BGR2HSV);
-
-    imshow("gray", gray);
-    imshow("hsv", hsv);
-    waitKey(0);
-
     destroyAllWindows();
 
     return 0;
