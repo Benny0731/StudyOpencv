@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( MatCreation )
+find_package( OpenCV REQUIRED )
+add_executable( ${PROJECT_NAME}  ${PROJECT_NAME}.cpp Matcreation.cpp Matcreation.h)
+target_link_libraries( ${PROJECT_NAME} ${OpenCV_LIBS} )
