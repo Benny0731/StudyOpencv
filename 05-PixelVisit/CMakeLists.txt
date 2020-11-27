@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( PixelVisit )
+find_package( OpenCV REQUIRED )
+add_executable( PixelVisit PixelVisit.cpp Pixelvisit.cpp Pixelvisit.h)
+target_link_libraries( PixelVisit ${OpenCV_LIBS} )
