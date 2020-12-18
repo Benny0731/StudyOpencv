@@ -48,7 +48,7 @@ My study opencv 4.1.0 Test Dome
 4. 获取彩色图片的均值和方差
 ## 12-NorMalize(像素归一化)
 1. NORM_MINMAX计算公式<br>
-![]https://github.com/Benny0731/StudyOpencv/raw/master/image/NORM_MINMAX.git
+![](https://github.com/Benny0731/StudyOpencv/raw/master/image/NORM_MINMAX.git)
 2. NORM_INF计算公式<br>
 3. NORM_L1计算公式<br>
 4. NORM_L2计算公式
