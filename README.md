@@ -71,3 +71,6 @@ My study opencv 4.1.0 Test Dome
 ## 17-ROI(图形ROI区域的操作)
 1. 矩形ROI区域
 2. 不规则形状ROI(更换人物背景)
+## 18-CalcHist(直方图统计)
+1. RGB三通道直方图绘制
+2. 灰度直方图绘制
