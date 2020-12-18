@@ -50,8 +50,11 @@ My study opencv 4.1.0 Test Dome
 1. NORM_MINMAX计算公式<br>
 ![](image/NORM_MINMAX.png)
 2. NORM_INF计算公式<br>
+![](image/NORM_INF.png)
 3. NORM_L1计算公式<br>
-4. NORM_L2计算公式
+![](image/NORM_L1.png)
+4. NORM_L2计算公式<br>
+![](image/NORM_L2.png)
 ## 13-Capture(视频流操作)
 1. 读取视频流并获取视频信息
 2. 播放视频，并保存成不同的视频格式
