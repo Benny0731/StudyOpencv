@@ -5,7 +5,7 @@ My study opencv 4.1.0 Test Dome
 2. 显示窗口的设置<br>
 3. 图像的显示<br>
 4. 图像的保存<br>
-5. 窗口的销毁。
+5. 窗口的销毁
 ## 02-ColorSpace(色彩空间的转换)
 1. RGB图像转灰度<br>
 2. RGB图像转HSV
@@ -48,29 +48,35 @@ My study opencv 4.1.0 Test Dome
 4. 获取彩色图片的均值和方差
 ## 12-NorMalize(像素归一化)
 1. NORM_MINMAX计算公式<br>
-![](image/NORM_MINMAX.png)
+![](image/NORM_MINMAX.png)<br>
 2. NORM_INF计算公式<br>
-![](image/NORM_INF.png)
+![](image/NORM_INF.png)<br>
 3. NORM_L1计算公式<br>
-![](image/NORM_L1.png)
+![](image/NORM_L1.png)<br>
 4. NORM_L2计算公式<br>
 ![](image/NORM_L2.png)
 ## 13-Capture(视频流操作)
-1. 读取视频流并获取视频信息
+1. 读取视频流并获取视频信息<br>
 2. 播放视频，并保存成不同的视频格式
 ## 14-Flip(图像翻转)
 1. 图像的倒影、镜像和对角翻转
 ## 15-Resize(图像的插值)
-1. 利用插值算法实现图像的缩放
+1. 利用插值算法实现图像的缩放<br>
 2. 最近邻插值、线性插值、三次样条插值、Lanczos插值
 ## 16-Graph(图形的绘制)
-1. 绘制矩形
-2. 绘制圆形
-3. 绘制椭圆
+1. 绘制矩形<br>
+2. 绘制圆形<br>
+3. 绘制椭圆<br>
 4. 实现随机线条生成
 ## 17-ROI(图形ROI区域的操作)
-1. 矩形ROI区域
+1. 矩形ROI区域<br>
 2. 不规则形状ROI(更换人物背景)
 ## 18-CalcHist(直方图统计)
-1. RGB三通道直方图绘制
+1. RGB三通道直方图绘制<br>
 2. 灰度直方图绘制
+## 19-EqualizeHist(直方图均衡化)
+1. 灰度图直方图均衡化<br>
+2. RGB图片直方图均衡化<br>
+3. 直方图均衡化公式<br>
+![](image/EqualizeHist.png)
+
