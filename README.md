@@ -79,4 +79,11 @@ My study opencv 4.1.0 Test Dome
 2. RGB图片直方图均衡化<br>
 3. 直方图均衡化公式<br>
 ![](image/EqualizeHist.png)
+## 20-CompareHist(直方图比较)
+1. 直方图统计、直方图归一化<br>
+2. 使用相关性算法比较两张图<br>
+3. 使用卡方算法比较两张图<br>
+4. 使用交叉算法比较两张图<br>
+5. 使用巴氏算法比较两张图<br>
+![](image/CompareHist.png)
 
