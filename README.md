@@ -86,4 +86,6 @@ My study opencv 4.1.0 Test Dome
 4. 使用交叉算法比较两张图<br>
 5. 使用巴氏算法比较两张图<br>
 ![](image/CompareHist.png)
-
+## 21-CalcBackProject(直方图反向投影)
+1. 直方图反向投影<br>
+2. 首先计算某一特征的直方图模型，然后使用模型去寻找图像中存在的特征
