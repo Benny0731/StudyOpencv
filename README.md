@@ -89,3 +89,6 @@ My study opencv 4.1.0 Test Dome
 ## 21-CalcBackProject(直方图反向投影)
 1. 直方图反向投影<br>
 2. 首先计算某一特征的直方图模型，然后使用模型去寻找图像中存在的特征
+## 22-Blur(均值模糊)
+1. 自定义3*3均值模糊<br>
+2. OpenCV API实现均值模糊
